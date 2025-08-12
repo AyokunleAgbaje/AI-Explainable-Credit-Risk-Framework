@@ -50,7 +50,7 @@ This repository contains all the necessary components to replicate the project:
 3.  Upload all files to a new project in Google's NotebookLM.
 4.  Interact with the AI using natural language to query the model's logic and generate reports, as demonstrated below.
 
-!(URL_TO_YOUR_SCREENSHOT_HERE)
+!(URL_TO_DEMO_HERE)
 https://github.com/user-attachments/assets/5d6756ae-a756-4c39-b9ca-faf4cc8883ce.png
 https://github.com/user-attachments/assets/cee0869f-e97f-4bff-8c5f-194bba9aad0c.png
 https://github.com/user-attachments/assets/0c5c63e0-b8ee-494c-a340-f4f26ff6d8ac.png
