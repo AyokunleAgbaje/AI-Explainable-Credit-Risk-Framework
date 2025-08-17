@@ -52,6 +52,9 @@ This repository contains all the necessary components to replicate the project:
 
 !(URL_TO_DEMO_HERE)
 https://github.com/user-attachments/assets/5d6756ae-a756-4c39-b9ca-faf4cc8883ce.png
+
 https://github.com/user-attachments/assets/cee0869f-e97f-4bff-8c5f-194bba9aad0c.png
+
 https://github.com/user-attachments/assets/0c5c63e0-b8ee-494c-a340-f4f26ff6d8ac.png
+
 https://github.com/user-attachments/assets/92049ae4-f1d4-4f96-9af6-2320bf708db6.png
